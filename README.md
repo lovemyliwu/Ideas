@@ -262,6 +262,7 @@ cond(no)->op
 
 # insert video
 
+`<iframe height=300 width='100%' src="https://players.youku.com/player.php/sid/XMzE3NDQ4NTMy/v.swf" allowfullscreen></iframe>`
 <iframe height=300 width='100%' src="https://players.youku.com/player.php/sid/XMzE3NDQ4NTMy/v.swf" allowfullscreen></iframe>
 
 ### Support StackEdit
