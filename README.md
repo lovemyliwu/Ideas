@@ -260,6 +260,10 @@ cond(no)->op
 > - about **Sequence diagrams** syntax [here][7],
 > - about **Flow charts** syntax [here][8].
 
+# insert video
+
+<iframe height=300 width='100%' src="https://players.youku.com/player.php/sid/XMzE3NDQ4NTMy/v.swf" allowfullscreen></iframe>
+
 ### Support StackEdit
 
 [![](https://cdn.monetizejs.com/resources/button-32.png)](https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&summary=true)
